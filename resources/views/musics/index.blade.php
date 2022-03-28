@@ -3,6 +3,7 @@
 
 
         <a href="/music/add">Add Music</a>
+<a href="/playlist">Playlist</a>
 
         <div class="container-header center">
           <h1>Listen to Popular Songs</h1>
